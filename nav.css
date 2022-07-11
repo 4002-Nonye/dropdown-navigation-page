@@ -170,6 +170,7 @@ h1 {
 	background: url('images/image-hero-desktop.png') no-repeat;
 	margin-top: 3rem;
 	width: 45%;
+	height:90vh;
 	background-position: center;
 	background-size: contain;
 }
