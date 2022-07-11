@@ -337,7 +337,7 @@ h1 {
 
 	.hidden {
 		visibility: hidden;
-		opacity: 0;
+		right:100%;
 	}
 	.close {
 		background: none;
