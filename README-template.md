@@ -36,7 +36,7 @@ Frontend mentor-Navigation page - .png
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]( https://4002-nonye.github.io/dropdown-navigation-page/)
 
 ## My process
 
