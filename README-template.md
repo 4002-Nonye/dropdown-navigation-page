@@ -35,7 +35,7 @@ Frontend mentor-Navigation page - .png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [SOLUTION URL](https://www.frontendmentor.io/solutions/intro-section-with-dropdown-navigation-menu-YpHs7C5KYT)
 - Live Site URL: [LIVE SITE URL]( https://4002-nonye.github.io/dropdown-navigation-page/)
 
 ## My process
